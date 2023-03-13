@@ -1,5 +1,6 @@
+![Imagem do site](https://user-images.githubusercontent.com/108638526/224595864-e2cb8a29-3c5b-4797-8068-2c3d3156ca42.png)
 
-# Funcionalidades 
+# 🖥 Funcionalidades 
 - `Funcionalidade 1:` `Filtro de pokemons`:ao usuario digitar no campo a direita o nome do pokemon que deseja procurar, o site faz o filtro mostrando somente o(s) pokemon(s) que o mesmo deseja;
 
 # ⌛ Status 
@@ -13,4 +14,4 @@
 
 # 🔗 Link 
 `1ª:Site` https://poke-api-roan.vercel.app/ <br>
-`1ª:Figma(design Autoral)` https://poke-api-roan.vercel.app/ <br>
+`1ª:Figma(design Autoral)` https://www.figma.com/file/Af1V5lDfP0BEb6DeJXBUgR/pokeApi?t=6J5Al0RURwg6CClq-1<br>
