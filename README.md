@@ -9,7 +9,7 @@
 </p>
 
 # 👨‍💻 Coisas que aprendi 
-`1ª:` Usar o metodo async, que cria funções assincroans <br>
+`1ª:` Usar o metodo async, que cria funções assincronas <br>
 `2ª:` Usar o metodo await, que espera o fim de uma requisição <br>
 
 # 🔗 Link 
