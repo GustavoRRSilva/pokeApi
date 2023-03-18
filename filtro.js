@@ -8,7 +8,7 @@ procurar.addEventListener('input',() => {
         element.parentElement.style.display = 'none';
     }
     else{
-        element.parentElement.style.display = 'block';
+        element.parentElement.style.display = 'flex';
     }
    });
 })
